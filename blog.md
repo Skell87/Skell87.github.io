@@ -1,2 +1,2 @@
-# Brandon Heisler #
-### blog title ###
+# Brandon Heisler 
+### blog title 
