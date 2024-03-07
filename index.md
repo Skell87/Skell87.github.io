@@ -10,6 +10,7 @@
 <p> No truer story has ever been told. Starting this week was easy. Take a step, learn something new, take another step, repeat.
     the struggle isnt in the walking, its in the resolve to overcome hills, valleys, mountains and rivers. Bumping up against obstacles of knowledge such as not knowing Git or GitHub, how to use markdown effectively or just displaying the right page. these things can only be overcome with resolve and the quest for knowledge with an undying perseverence, The bonus is that the next hill just may look a little smaller.</p> 
 
+![A hiking dwarf made with ai](https://github.com/Skell87/Skell87.github.io/blob/main/Hiking_dwarf.png)
 
 ### What are you excited or eager to learn more about?
    <p> I am most excited to start using Javascript and Python, Im also excited to create working programs. Today I was introduced to some small cyber security concepts as well and eventually want to look into that direction, AI as well seems to be an amazing subject. </p>
