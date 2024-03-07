@@ -2,13 +2,13 @@
 ---
 
 ### Was your first week what you expected? Why? Why not?
-   <h4> Starting a new journey is both simple and difficult, like Bilbo Baggins says:
-    <h4>
+   <p> Starting a new journey is both simple and difficult, like Bilbo Baggins says:
+    </p>
 
 > “It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to.”
 
-<h4> No truer story has ever been told. Starting this week was easy. Take a step, learn something new, take another step, repeat.
-    the struggle isnt in the walking, its in the resolve to overcome hills, valleys, mountains and rivers. Bumping up against obstacles of knowledge such as not knowing Git or GitHub, how to use markdown effectively or just displaying the right page. these things can only be overcome with resolve and the quest for knowledge with an undying perseverence, The bonus is that the next hill just may look a little smaller. 
+<p> No truer story has ever been told. Starting this week was easy. Take a step, learn something new, take another step, repeat.
+    the struggle isnt in the walking, its in the resolve to overcome hills, valleys, mountains and rivers. Bumping up against obstacles of knowledge such as not knowing Git or GitHub, how to use markdown effectively or just displaying the right page. these things can only be overcome with resolve and the quest for knowledge with an undying perseverence, The bonus is that the next hill just may look a little smaller.</p> 
 
 ### What are you excited or eager to learn more about?
    <h4> I am most excited to start using Javascript and Python, Im also excited to create working programs. Today I was introduced to some small cyber security concepts as well and eventually want to look into that direction, AI as well seems to be an amazing subject. 
