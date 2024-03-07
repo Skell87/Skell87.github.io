@@ -1,4 +1,2 @@
-<!DOCTYPE html>
-<html>
-
-<title> "Brandon Heisler"
+# Brandon Heisler #
+### blog title ###
