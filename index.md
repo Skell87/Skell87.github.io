@@ -17,3 +17,18 @@
 
 ### What is something about you that can only be learned by reading this blog?
    <p> Full disclosure, Im an insecure person on the inside, I have to choose minute by minute to not give up on my path. I have immense vision but lack tools. My passion is to preach the Gospel and to help people in need, no matter what they belive or who they are, I honestly love people. My hope is that by learning the tools of tech, i can merge these passions and visions together to create something that has impact on even one person's life for the better. </p>
+
+***
+
+
+# Awesome inc. Bootcamp Week 2. 
+
+## What is something I wish i had the coding skills to accomplish?
+   <p> I am very satisfied with what I'm learning and the pace at which I'm going. that being said, I most wish that i was just better and more experienced at what im learning. Today i finished a webpage using HTML and CSS, but the webpage 
+         wasnt necesarily something that i would call a finished product or even beautiful in its own way. It was effective, but brutish and spartan at best. Nevertheless, the act of doing it was a victory in gaining knowledge and experience. I'll get better, I'll keep succeeding and i'll keep growing. </p>
+
+## What am I struggling with?
+   <p>I am mostly struggling with the raw amount of new and unknown data that i have to ingest and use on a weekly basis. This week alone has been like battling a hydra, I learn one lesson, element or new operation, and two or three more pieces of knowledge present themselves. The learning process itself is a challenge. Luckily I have resources in my peers, Instructors and google. Again the main lesson is to take in what I can and keep moving. Allow the process to have its way and not to give up.</p>
+
+## What methods do i use to get unstuck?
+   <p> When Im stuck, I look at the clock and note the time. I try to look over my code or google my problem to see if there are errors or get inspiration. If i find a useful solution I'll try it and see if it works. I iterate a couple of times and if I still havent succeeded, then I take a break, come back and ask an instructor. The key is to take it slow, be thorough and code efficiently. efficiency doesnt mean fast, it means methodical. Ive found that i can eliminate most issues i have if I am able to slow down and make sure its right the first time. An added benefit to going slow is that if you run into an issue, its probably a real issue, not a silly mistake... most of the time.</p>
