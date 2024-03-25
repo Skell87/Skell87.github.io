@@ -32,3 +32,14 @@
 
 ## What methods do i use to get unstuck?
    <p> When Im stuck, I look at the clock and note the time. I try to look over my code or google my problem to see if there are errors or get inspiration. If i find a useful solution I'll try it and see if it works. I iterate a couple of times and if I still havent succeeded, then I take a break, come back and ask an instructor. The key is to take it slow, be thorough and code efficiently. efficiency doesnt mean fast, it means methodical. Ive found that i can eliminate most issues i have if I am able to slow down and make sure its right the first time. An added benefit to going slow is that if you run into an issue, its probably a real issue, not a silly mistake... most of the time.</p>
+
+***
+
+
+# Awesome Inc. Bootcamp Week 3.
+
+## What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing a user experience?
+   <P>So far in my learning journey and experience, I can say that HTML, CSS, and JS really seem to be powerful tools compared to more streamlined web content programs. To me the comparison is, as having an entire workshop filled with every woodworking tool and resource you would ever need compared to having an Ikea kit. Although that may be a too simple comparison. By learning these 3 languages, not only does it provide a platform of experience for learning other languages, but they allow us to have the power to make anything and if necessary, make the tools to make anything.</P>
+
+## What are some objects that your blog incorporates?
+   <p> My blog at this writing is pretty spartan. I have an image on the first post, that is considered an object. Its some element in my page that encapsulates data and behavior.</p>
