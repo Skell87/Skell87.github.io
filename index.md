@@ -43,3 +43,14 @@
 
 ## What are some objects that your blog incorporates?
    <p> My blog at this writing is pretty spartan. I have an image on the first post, that is considered an object. Its some element in my page that encapsulates data and behavior.</p>
+
+# Awesome Inc. Bootcamp Week 4.
+
+## What was helpful during Onboarding working remotely?
+   <p>The most helpful thing during our remote weeks was having consistent access to our instructor to ask for help. our instructors are so patient to help us with redundand or seemingly silly questions, but coding is hard, it always will be until we readily learn how to solve problems critically and think like programmers.</p>
+
+## What hindered your progress during Onboarding?
+   <p>The bigget challenge that ive faced during onboarding has been to really understand the concepts were supposed to be learning. we have a ton of resources at our disposal in the form of videos and documents, however, i feel like learning these concepts requires a more guided hand. I can honestly say that ive learned alot in the last 4 weeks, but im concerned if ive learned the right things or if ive reached the accurate level of understanding. I have had to watch tutorials for projects and learn to reverse engineer, conceptualize and re-implement what ive learned to create projects. I have an understanding of how the projects work and why but I wonder if I started from scratch, if I could re-create them. now, of my own volition and initiative, Im taking the time to identify weak areas and learn.</p>
+
+## How did you overcome challenges during Onboarding?
+   <p>Asking for help can not be understated, ALWAYS ASK, even if it's annoying. Again, this is hard, you dont know what you dont know and that statement has rung true several times this week. i think the key is also learning how to process what kind of help you get. for example: if you ask someone for help, repeat back what they say, take notes, find a way to internalize their advice. If you find a tutorial to help, dont copy the code, listen for a concept you dont know the pause the video, study it, attempt to write code after understanding it, if you dont hit a breakthrough, go back to the video and repeat the process until you can write the code, explain the code in a way someone will understand. that way despite being "given the answer" you also took a lesson.</p>
