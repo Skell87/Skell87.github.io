@@ -54,3 +54,14 @@
 
 ## How did you overcome challenges during Onboarding?
    <p>Asking for help can not be understated, ALWAYS ASK, even if it's annoying. Again, this is hard, you dont know what you dont know and that statement has rung true several times this week. i think the key is also learning how to process what kind of help you get. for example: if you ask someone for help, repeat back what they say, take notes, find a way to internalize their advice. If you find a tutorial to help, dont copy the code, listen for a concept you dont know the pause the video, study it, attempt to write code after understanding it, if you dont hit a breakthrough, go back to the video and repeat the process until you can write the code, explain the code in a way someone will understand. that way despite being "given the answer" you also took a lesson.</p>
+
+# Awesome Inc. Bootcamp Week 5.
+
+## What is the number one thing that held you back this week? Why?
+   <p>The number one thing that held me back this week was not making the connection between what we learned about state, and using objects in Javascript. Objects are a great way to store data and our assignment to manipulate the state of a webpage could be the perfect use case for it. My goal going forward is to assess any project I start by thinking about what tools I've learned that may be useful, even prior to pseudocoding.</p>
+
+## What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
+   <p>I am very interested in learning enough overall Javascript to be able to “see” a path through a project prior to coding. Knowing what tools I have in my kit and how to apply them will be a fundamental force multiplier for my success in using that and other languages. I feel like I'm getting the hang of Javascript, but as we progress I know that I'll only just refine and learn more.</p>
+
+## What is your “Why”?
+<p>My “why” in doing this boot camp is simple, I want to change the world for the better in some way. Specifically, my wife and I want to work as a full time missionary in other countries. How are these two things related? Tech is the perfect job to get me into other countries and keep us supported remotely while we bring the gospel. I also think that the ability to make whatever I want in a digital space is pretty rad.</p>
