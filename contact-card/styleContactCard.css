@@ -1,0 +1,59 @@
+.container{
+
+    display: grid;
+    padding: 0%;
+    justify-content: center;
+    border-style: solid;
+    border-width: .1px;
+    border-radius: 25px;
+    background-image: url(assets/photo-1604856420566-576ba98b53cd.avif);
+    background-repeat: no-repeat;
+    background-size: 300px 500px;
+    height: 500px;
+    width: 275px;
+    box-shadow: 1px 1px 5px rgb(119, 123, 124);
+}
+
+.pictureBox{
+    background-image: url(assets/20230307_132839.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: block;
+    margin-top: ;
+    height: 220px;
+    width: 220px;
+    align-self: center;
+}
+
+.contactInfo{
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    width: 220px;
+    margin-top: auto;
+    align-self: center;
+    background-color: rgba(255, 255, 255, 0.181); 
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    
+}
+
+h1{
+    opacity: 100%;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#email{
+    
+    height: 50px;
+    width: 50px;
+}
+
+#github{
+    
+    height: 50px;
+    width: 50px;
+}
