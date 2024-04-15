@@ -65,3 +65,18 @@
 
 ## What is your “Why”?
 <p>My “why” in doing this boot camp is simple, I want to change the world for the better in some way. Specifically, my wife and I want to work as a full time missionary in other countries. How are these two things related? Tech is the perfect job to get me into other countries and keep us supported remotely while we bring the gospel. I also think that the ability to make whatever I want in a digital space is pretty rad.</p>
+
+
+# Awesome inc. Bootcamp Week 5.
+
+## What did you learn about that helped you understand the development process?
+<p>The big thing ive tried to focus on in the development process is to decentralize your javascript resources. instead of making one big giant block of code that cant easily be changes, break it into pieces and write the blocks to be small and easy to plug in and take out, then make code to tie it all together.</p>
+
+## What does it mean to develop good code?
+<p>Good code should be easily labeled and read, concise and understandable. I think its more about making it easily understood than necesarily being ultra efficient. if someone who needs to read your code cant, despite being super efficient, then no one wins. but if your code works, is easy to understand and is easily changed or added to, thats the sweet spot.</p>
+
+## What does it mean to be a good developer?
+<p>At this point i believe a good developer has the obvious traits of hard working and teachable, but a developer who can solve problems, think critically and knows to ask for help can and will go farther.</p>
+
+## What is one thing that programmers hate doing?
+<p>programmers hate re-writing the same code! at least they should. learning to automate and make one tool to do many things is key to good organization and efficiency.</p>
