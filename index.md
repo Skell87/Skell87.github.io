@@ -80,3 +80,52 @@
 
 ## What is one thing that programmers hate doing?
 <p>programmers hate re-writing the same code! at least they should. learning to automate and make one tool to do many things is key to good organization and efficiency.</p>
+
+# Awesome inc. Bootcamp Week 6.
+
+## what is pseudocode? ##
+
+<p>Pseudocode and you!
+
+	Pseudocode is arguably our first language learned as programmers. Also arguably, it is the least practiced language among programmers. In our industry communication is vital, not just with clients or other developers but also with “the you 1 week from now.” just think, how often have you worked on a project up to friday, had a couple days off, got some sleep and maybe bar-b-q’ed a little, only to come back on monday to the same project and draw a huge blank as to what you were working on and what direction you were headed with it? It can't be understated that we've all been there, it's an easy problem to fix so let's dive into the wonderful world of pseudocode.
+
+What is pseudocode?
+
+ The short answer? It's anything you make it out to be. It can be the beginning, middle and end of any programming project, it looks like listing goals, or establishing workflow, writing out notes for function flow or even for just establishing what variables we might need in the future. In a more technical sense, it is “code that isn't functional.” it can be done on paper or within our code itself. There's a lot underneath the hood of what makes good pseudocode, but the very basics are that it is a great way to explicitly set up your programming project for yourself, your clients and your fellow developers. Here's an example…
+
+Let's say we are tasked with creating a web store for a client. We can start like this:
+
+// we are creating a web store to sell a new line of dog biscuits.
+// the web store needs to have a header, footer, a hero image, a call to action and a product synopsis.
+// the client wants to use a specific color palette of reds and blues with white detail.
+
+Can you envision this website in your head already? Maybe you're already thinking of a good layout for the landing page? All I've really done is state the obvious, but by actually writing it out, we've set our brains on a creative vector that will help us be more organized and meet all of our customers' needs. 
+Or maybe you're breaking down a problem into a function. Start it like this…
+
+	// I need a function that takes an array of numbers and gives me all of the odd numbers.
+	// an odd number isn't divisible by 2
+	// i can use modulo to see if there's a remainder after dividing a number by 2.
+	// if x % 2 = 0
+	// return “number is even.” to the console.
+
+Anyone who reads that should get a baseline idea of what we're trying to do, or at least that's the goal. Could we be more specific? Were the ideas communicated clearly? Could we actually build a function from this thought and succeed? All good questions to ask, but can you see how this would help us in writing out good, working code? Good pseudocode is the software equivalent of “measure twice, cut once.”
+
+Why should we pseudocode?
+
+	In the above example we saw that pseudocoding our basic project needs helped us to organize our thoughts. But that's not the only use. In a more technical sense, code can get pretty complicated with different types of functions, arrays and variables all over the place, especially when documents get bigger and bigger. Using pseudocode to plan out a program like that is vital, not only to have a base level of organization but to also easily communicate to others what we are doing. Making notes above functions as to what they are doing in our program or referencing variables and what lines they're on or why they are named what they are can help other engineers who may be evaluating code prior to merge really understand what we are trying to do and why we picked the methods we did, an added benefit is that if there's a better way to do something that maybe we didn't know, our contemporaries can inform us and help us to develop ourselves and our program. That's a win/win for us and for our client.
+Speaking of clients, those notes we've made can really help us show a client what we're doing and why, and can act as a sort of script to assist in presenting our ideas and how they function in the real world. 
+
+So, what do we want from our pseudocode?
+
+	Pseudocode is essentially just good communication. Speaking ideas and communicating them to the right audience through easy to understand speech and language. Here's a few tips…
+
+Is our pseudocode readable? An easy way to find out is to have someone read it and give feedback, or, record yourself reading it and listen. It should be simple to understand and explicit enough to build.
+
+Is our pseudocode consistent? We shouldn't start with clear, easy to understand language only to devolve into a lazy unorganized mess of indistinguishable thoughts.
+
+Are my high level ideas proposed in a low level way? In other words, how am I taking a complex thought and communicating it in a way that maybe a twelve year old could understand?
+
+Is my pseudocode systematic? As much as possible, I should be able to read the pseudocode of a coding document from top to bottom and come away with an understanding of what's going on.
+
+I hope this has inspired you to take a bit more time in writing notes out in your future projects. Pseudocode is an underrated and often overlooked way to communicate ideas and methods to yourself and others and it's a language that is worth practicing. Happy coding!
+</p>
